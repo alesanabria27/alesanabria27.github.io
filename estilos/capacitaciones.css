@@ -1,0 +1,45 @@
+#texto{
+    display: inline-block;
+    width: 17%;
+    text-align: center;
+}
+#div2{
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+}
+#img1{
+    display: inline-block;
+    width: 17%;
+    float: right;
+}
+#admin{
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    color: blue;
+}
+#conta{
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    color: darkgoldenrod;
+}
+#comu{
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    color: darkorange;
+}
+#turismo{
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    color: darkmagenta;
+}
+#tics{
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    color: cornflowerblue;
+}
